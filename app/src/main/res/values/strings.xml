@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tenant Management System</string>
+    <string name="title_login">Welcome Back</string>
+    <string name="subtitle_login">Sign in to manage properties &amp; leases</string>
+    <string name="prompt_email">Email Address</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="action_register">Create New Account</string>
+    <string name="title_register">Create Account</string>
+    <string name="subtitle_register">Join the Tenant Management Network</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+
+    <!-- Navigation & Titles -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_add_tenant">Add Tenant</string>
+    <string name="nav_view_tenants">View Tenants</string>
+    <string name="nav_logout">Logout</string>
+    <string name="menu_logout">Logout</string>
+
+    <!-- Tenant Form -->
+    <string name="hint_tenant_name">Tenant Full Name</string>
+    <string name="hint_tenant_phone">Phone Number</string>
+    <string name="hint_monthly_rent">Monthly Rent (KES)</string>
+    <string name="hint_property_unit">Property / Apartment Unit</string>
+    <string name="action_save_tenant">Save Tenant</string>
+    <string name="action_share_tenant">SHARE</string>
+    <string name="error_required">Required</string>
+
+    <!-- Metrics -->
+    <string name="metric_total_tenants">Total Active Tenants</string>
+    <string name="metric_total_rent">Monthly Portfolio Rent</string>
+    <string name="metric_average_rent">Average Rent / Unit</string>
+
+    <!-- Drawer Header -->
+    <string name="drawer_header_title">Tenant Manager Pro</string>
+    <string name="drawer_header_subtitle">admin@propertyhub.co.ke</string>
+</resources>
